@@ -1,0 +1,8 @@
+<div class="buttons">
+  <a href="https://forms.gle/YOUR_FORM_LINK" class="primary">
+    Request a Service
+  </a>
+  <a href="https://razorpay.me/YOUR_LINK" class="secondary">
+    Pay Now
+  </a>
+</div>
